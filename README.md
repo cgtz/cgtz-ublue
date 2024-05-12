@@ -1,4 +1,4 @@
-# Personal Fedora Image &nbsp; [![build-ublue](https://github.com/cgtz/cgtz-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/cgtz/cgtz-ublue/actions/workflows/build.yml)
+# Personal OS Image &nbsp; [![build-ublue](https://github.com/cgtz/cgtz-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/cgtz/cgtz-ublue/actions/workflows/build.yml)
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
