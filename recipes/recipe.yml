@@ -47,7 +47,6 @@ modules:
     notify: true # Send notification after install/uninstall is finished (true/false)
     system:
       install:
-        - com.usebottles.bottles
         - com.github.tchx84.Flatseal
         - com.mattjakeman.ExtensionManager
         - com.stremio.Stremio
